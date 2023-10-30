@@ -1,8 +1,13 @@
-package aisha;
-public class guru
+class guru
 {
-public void show()
+public static void main(String args[])
 {
-System.out.println("executing show method");
+int arr[]=new int[50];
+int i;
+for(i=0; i<arr.length; i++)
+{
+arr[i] = i; 
+System.out.println(arr[i]);
+}
 }
 }
