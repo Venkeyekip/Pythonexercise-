@@ -1,0 +1,16 @@
+Android is a software 
+package and Linux based operating system for mobile devices such as tablet computers and 
+Smartphone’s.
+It is developed by Google and later the OHA (Open Handset Alliance). Java language is 
+mainly used to write the android code even though other languages can be used.
+The goal of android project is to create a successful real-world product that improves the 
+mobile experience for end users.
+
+XML: Extensible Markup Language
+Stands for Extensible Markup Language. XML is a markup language much like HTML used 
+to describe data. XML tags are not predefined in XML. We must define our own Tags. Xml 
+as itself is well readable both by human and machine. Also, it is scalable and simple to 
+develop. In Android we use xml for designing our layouts because xml is lightweight 
+language so it doesn’t make our layout heavy. In this article we will go through the basic 
+concepts of xml in Android and different XML files used for different purpose in Android. 
+This will help you in writing a UI code to design your desired user interface.
