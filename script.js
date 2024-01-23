@@ -1,5 +1,16 @@
+function myFunction(a, n) {
+   
+    return a[n - 1];
+ }
 
-function myFunction(a, b){
 
-return a + b;
-}
+
+// myFunction('abcd',1)
+// // Expected
+// // 'a'
+// myFunction('zyxbwpl',5)
+// // Expected
+// // 'w'
+// myFunction('gfedcba',3)
+// // Expected
+// // 'e'
